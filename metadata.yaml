@@ -1,0 +1,36 @@
+_repo: The-HawthorneA-Christmas-and-New-Years-Present_43229
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+covers:
+- cover_type: archival
+  image_path: 43229-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Frederick Ormsby, by Eliza Leslie -- The rustic wreath, by Mrs. Hughs
+  -- The storm, by Mrs. Hughs -- The mysterious picture, by Eliza Leslie -- The father's
+  pride, by Mrs. Childs -- The pet lamb, by Mrs. Hughs -- The clean face, by Eliza
+  Leslie -- Le loup et l'agneau, by the author of The Lights of Education -- The Christmas
+  visit, by Mrs. Hughs -- The little girl and her kitten -- The quilting, by Eliza
+  Leslie -- The little runaway, by J.W.S. -- The souvenir, by the author of The Young
+  Americans -- The mother's joy, by Mrs. Child -- The Percevals, by the author of
+  The Lights of Education -- Child left on the sea shore, by Mrs. Sigourney -- The
+  eagle of the west -- The launch of the frigate, by the author of The Young Americans.
+title: 'The Hawthorne: A Christmas and New Years Present'
+url: http://www.gutenberg.org/ebooks/43229
