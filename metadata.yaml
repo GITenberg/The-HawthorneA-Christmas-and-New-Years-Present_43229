@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 43229-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43229#The-HawthorneA-Christmas-and-New-Years-Present
 gutenberg_issued: '2013-07-16'
 gutenberg_type: Text
 identifiers:
